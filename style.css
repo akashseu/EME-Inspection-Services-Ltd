@@ -35,3 +35,7 @@ ul li a.active, a:hover{
     transition-duration: .6s;
 }
 
+.carousel-inner{
+    height: 400px;
+}
+
